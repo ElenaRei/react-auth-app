@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-auth-app/static/css/main.e5d944b2.css",
-    "main.js": "/react-auth-app/static/js/main.958de138.js",
+    "main.js": "/react-auth-app/static/js/main.3bad1d91.js",
     "index.html": "/react-auth-app/index.html",
     "main.e5d944b2.css.map": "/react-auth-app/static/css/main.e5d944b2.css.map",
-    "main.958de138.js.map": "/react-auth-app/static/js/main.958de138.js.map"
+    "main.3bad1d91.js.map": "/react-auth-app/static/js/main.3bad1d91.js.map"
   },
   "entrypoints": [
     "static/css/main.e5d944b2.css",
-    "static/js/main.958de138.js"
+    "static/js/main.3bad1d91.js"
   ]
 }
